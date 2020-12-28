@@ -1,0 +1,11 @@
+{
+    "buttons": ".btn",
+    "dropDown": ".react-select__value-container",
+    "input": ".react-select__input",
+    "email": ".form-input",     
+    "page1": "Passage 1 / 2",
+    "page2": "Passage 2 / 2",
+    "stop": "Stop reading",
+    "child": "child",
+    "parent": "parent"
+}
